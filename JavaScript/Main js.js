@@ -206,5 +206,5 @@ function shopping()
 // Log OUT 
 function log_out()
 {
-   log_out_btn.setAttribute("href", "Sign in .html");
+   log_out_btn.setAttribute("href", "index.html");
 }
